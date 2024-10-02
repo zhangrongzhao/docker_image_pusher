@@ -4,3 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist 
+#clusterctl创建k8s集群所需镜像
+registry.k8s.io/cluster-api/cluster-api-controller:v1.8.3
