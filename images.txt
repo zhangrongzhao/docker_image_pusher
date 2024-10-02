@@ -1,2 +1,2 @@
 #clusterctl创建k8s集群所需镜像
-registry.k8s.io/cluster-api/cluster-api-controller:v1.8.3
+registry.k8s.io/cluster-api/cluster-api-controller:v1.8.3 
