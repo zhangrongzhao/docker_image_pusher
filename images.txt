@@ -3,3 +3,12 @@ registry.k8s.io/cluster-api/cluster-api-controller:v1.8.3
 registry.k8s.io/cluster-api/kubeadm-bootstrap-controller:v1.8.3
 registry.k8s.io/cluster-api/kubeadm-control-plane-controller:v1.8.3
 gcr.io/k8s-staging-cluster-api/capd-manager:v1.8.3
+#harbor
+goharbor/harbor-core:v2.11.1
+goharbor/harbor-db:v2.11.1
+docker.io/goharbor/harbor-jobservice:v2.11.1
+goharbor/nginx-photon:v2.11.1
+docker.io/goharbor/harbor-portal:v2.11.1
+goharbor/redis-photon:v2.11.1
+goharbor/registry-photon:v2.11.1
+goharbor/trivy-adapter-photon:v2.11.1
