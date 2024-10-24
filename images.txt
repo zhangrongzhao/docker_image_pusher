@@ -15,3 +15,4 @@ goharbor/trivy-adapter-photon:v2.11.1
 goharbor/harbor-registryctl:v2.11.1
 #测试镜像
 docker.io/cncamp/httpserver:v1.0
+docker.io/cncamp/httpserver:v1.0-metrics
