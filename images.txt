@@ -17,3 +17,4 @@ goharbor/harbor-registryctl:v2.11.1
 docker.io/cncamp/httpserver:v1.0
 docker.io/cncamp/httpserver:v1.0-metrics
 docker.io/cncamp/metrics-server:v0.5.0
+docker.io/cncamp/hpa-example
