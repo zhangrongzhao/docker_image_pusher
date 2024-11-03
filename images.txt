@@ -17,7 +17,11 @@ goharbor/harbor-registryctl:v2.11.1
 docker.io/cncamp/httpserver:v1.0
 docker.io/cncamp/httpserver:v1.0-metrics
 docker.io/cncamp/httpserver:v2.0-metrics
+docker.io/cncamp/service0:v1.0
+docker.io/cncamp/service1:v1.0
+docker.io/cncamp/service2:v1.0
 docker.io/cncamp/metrics-server:v0.5.0
 docker.io/cncamp/hpa-example
 docker.io/envoyproxy/envoy-dev
+
 docker.io/envoyproxy/envoy:v1.32.1
