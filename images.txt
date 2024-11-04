@@ -25,3 +25,5 @@ docker.io/cncamp/hpa-example
 docker.io/envoyproxy/envoy-dev
 docker.io/envoyproxy/envoy:v1.32.1
 docker.io/jaegertracing/all-in-one:1.23
+#集群联邦
+kindest/node:v1.31.0
