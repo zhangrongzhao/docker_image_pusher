@@ -27,5 +27,5 @@ docker.io/envoyproxy/envoy:v1.32.1
 docker.io/jaegertracing/all-in-one:1.23
 #集群联邦
 docker.io/kindest/node:v1.31.0
-docker.io/kindest/node:v1.30.6
+docker.io/kindest/node:v1.30.0
 docker.io/kindest/node:v1.20.0
