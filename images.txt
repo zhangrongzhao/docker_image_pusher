@@ -29,3 +29,4 @@ docker.io/jaegertracing/all-in-one:1.23
 docker.io/kindest/node:v1.31.0
 docker.io/kindest/node:v1.30.0
 docker.io/kindest/node:v1.20.0
+docker.io/kindest/node:v1.10.0
