@@ -31,3 +31,5 @@ docker.io/kindest/node:v1.30.0
 docker.io/kindest/node:v1.27.3
 docker.io/kindest/node:v1.25.0
 docker.io/kindest/node:v1.21.1
+#golang
+docker.io/golang:1.16.6
