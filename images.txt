@@ -37,3 +37,4 @@ docker.io/golang:1.16.6
 #calico网络相关镜像
 docker.io/calico/pod2daemon-flexvol:v3.29.0
 docker.io/calico/typha:v3.29.0
+docker.io/calico/cni:v3.29.0
