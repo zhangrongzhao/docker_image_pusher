@@ -34,4 +34,5 @@ docker.io/kindest/node:v1.25.0
 docker.io/kindest/node:v1.21.1
 #golang
 docker.io/golang:1.16.6
-#k8s相关镜像
+#calico网络相关镜像
+docker.io/calico/pod2daemon-flexvol:v3.29.0
