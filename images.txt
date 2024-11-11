@@ -38,4 +38,7 @@ docker.io/golang:1.16.6
 docker.io/calico/pod2daemon-flexvol:v3.29.0
 docker.io/calico/typha:v3.29.0
 docker.io/calico/cni:v3.29.0
+docker.io/calico/csi:v3.29.0
 docker.io/calico/node:v3.29.0
+docker.io/calico/kube-controllers:v3.29.0
+docker.io/calico/apiserver:v3.29.0
