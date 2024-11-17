@@ -46,3 +46,5 @@ docker.io/calico/node-driver-registrar:v3.29.0
 #istio相关镜像
 docker.io/prom/prometheus:v2.54.1
 docker.io/mccutchen/go-httpbin:v2.15.0
+#bookinfo镜像
+docker.io/cncamp/examples-bookinfo-productpage-v1:1.16.2-v2
