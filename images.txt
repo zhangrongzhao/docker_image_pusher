@@ -1,5 +1,6 @@
 #rook相关镜像
 docker.io/rook/ceph:master
+quay.io/cephcsi/cephcsi:v3.13.0
 
 
 
