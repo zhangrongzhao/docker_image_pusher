@@ -49,3 +49,11 @@ docker.io/prom/prometheus:v2.54.1
 docker.io/mccutchen/go-httpbin:v2.15.0
 #bookinfo镜像
 docker.io/cncamp/examples-bookinfo-productpage-v1:1.16.2-v2
+#rook相关镜像
+docker.io/rook/ceph:master
+quay.io/cephcsi/cephcsi:v3.13.0
+registry.k8s.io/sig-storage/csi-provisioner:v5.1.0
+registry.k8s.io/sig-storage/csi-attacher:v4.8.0
+registry.k8s.io/sig-storage/csi-snapshotter:v8.2.0
+registry.k8s.io/sig-storage/csi-resizer:v1.13.1
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
