@@ -1,6 +1,16 @@
 #istio相关镜像
 docker.io/istio/pilot:1.24.0
 
+#calico网络相关镜像
+docker.io/calico/pod2daemon-flexvol:v3.29.2
+docker.io/calico/typha:v3.29.2
+docker.io/calico/cni:v3.29.2
+docker.io/calico/csi:v3.29.2
+docker.io/calico/node:v3.29.2
+docker.io/calico/kube-controllers:v3.29.2
+docker.io/calico/apiserver:v3.29.2
+docker.io/calico/node-driver-registrar:v3.29.2
+
 
 
 
